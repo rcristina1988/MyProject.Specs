@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{FE6136DF-7FAD-4D0E-B470-77C770E3F623}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyProject.Specs/lorem.feature">
+    <Files>
+      <File FileName="MyProject.Specs/lorem.feature" Line="8" Column="9" />
+      <File FileName="MyProject.Specs/lorem.feature.cs" Line="34" Column="23" />
+      <File FileName="MyProject.Specs/BalanceSteps.cs" Line="39" Column="16" />
+      <File FileName="MyProject.Specs/Driver.cs" Line="14" Column="849" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MyProject.Specs" expanded="True">
+            <Node name="MyProject.Specs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyProject.Specs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ritacristina/Projects/MyProject.Specs/MyProject.Specs/Balance.feature" relfile="MyProject.Specs/Balance.feature" line="1" column="1" />
+      <Breakpoint file="/Users/ritacristina/Projects/MyProject.Specs/MyProject.Specs/Balance.feature.cs" relfile="MyProject.Specs/Balance.feature.cs" line="1" column="8" />
+      <Breakpoint file="/Users/ritacristina/Projects/MyProject.Specs/MyProject.Specs/BalanceSteps.cs" relfile="MyProject.Specs/BalanceSteps.cs" line="15" column="1" />
+      <Breakpoint file="/Users/ritacristina/Projects/MyProject.Specs/MyProject.Specs/lorem.feature" relfile="MyProject.Specs/lorem.feature" line="10" column="1" />
+      <Breakpoint file="/Users/ritacristina/Projects/MyProject.Specs/MyProject.Specs/lorem.feature" relfile="MyProject.Specs/lorem.feature" line="9" column="1" />
+      <Breakpoint file="/Users/ritacristina/Projects/MyProject.Specs/MyProject.Specs/lorem.feature" relfile="MyProject.Specs/lorem.feature" line="8" column="1" />
+      <Breakpoint file="/Users/ritacristina/Projects/MyProject.Specs/MyProject.Specs/lorem.feature.cs" relfile="MyProject.Specs/lorem.feature.cs" line="54" column="1" />
+      <Breakpoint file="/Users/ritacristina/Projects/MyProject.Specs/MyProject.Specs/lorem.feature.cs" relfile="MyProject.Specs/lorem.feature.cs" line="57" column="1" />
+      <Breakpoint file="/Users/ritacristina/Projects/MyProject.Specs/MyProject.Specs/lorem.feature.cs" relfile="MyProject.Specs/lorem.feature.cs" line="82" column="1" />
+      <Breakpoint file="/Users/ritacristina/Projects/MyProject.Specs/MyProject.Specs/lorem.feature.cs" relfile="MyProject.Specs/lorem.feature.cs" line="84" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
